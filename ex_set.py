@@ -1,0 +1,10 @@
+myset={'apple','banana','cherry'}
+print(myset)
+myset.add('grape')
+print(myset)
+myset.remove('apple')
+print(myset)
+myset.pop()
+print(myset)
+print(type(myset))
+print(len(myset))
